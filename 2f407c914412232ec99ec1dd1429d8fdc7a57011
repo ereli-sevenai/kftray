@@ -1,0 +1,44 @@
+crates/kftray-commons/Cargo.toml
+  597f08e65a47fc9c 17
+frontend/src/components/Main/index.tsx
+  597f08e65a47fc9c 263-295,940
+crates/kftray-portforward/src/expose/kubernetes.rs
+  597f08e65a47fc9c 69
+frontend/src/components/Footer/index.tsx
+  597f08e65a47fc9c 4,43,147-151
+frontend/src/types/index.ts
+  597f08e65a47fc9c 100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "2f407c914412232ec99ec1dd1429d8fdc7a57011",
+  "prompts": {
+    "597f08e65a47fc9c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a4ee315b-61c1-44c5-9e8f-1351c99dde96",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "Ereli <ereli@7ai.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 44,
+      "overriden_lines": 0
+    },
+    "febab9c70cff6324": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b7a53ac-bacc-49f3-a3b6-de8cafa0e2cc",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "Ereli <ereli@7ai.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 98,
+      "overriden_lines": 0
+    }
+  }
+}
