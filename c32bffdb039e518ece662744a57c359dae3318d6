@@ -1,0 +1,27 @@
+crates/kftray-commons/src/utils/settings.rs
+  4c4abbdbc464be89 612-613,622,629-630,637
+crates/kftray-tauri/src/commands/env_export.rs
+  4c4abbdbc464be89 3-4
+crates/kftray-commons/src/models/settings_model.rs
+  4c4abbdbc464be89 105-106,169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "c32bffdb039e518ece662744a57c359dae3318d6",
+  "prompts": {
+    "4c4abbdbc464be89": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fb939b3b-4464-414a-90e1-c45db097d13b",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "Ereli <ereli@7ai.com>",
+      "messages": [],
+      "total_additions": 11,
+      "total_deletions": 0,
+      "accepted_lines": 11,
+      "overriden_lines": 0
+    }
+  }
+}
