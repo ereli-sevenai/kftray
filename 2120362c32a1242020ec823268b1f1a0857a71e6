@@ -1,0 +1,21 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "2120362c32a1242020ec823268b1f1a0857a71e6",
+  "prompts": {
+    "febab9c70cff6324": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b7a53ac-bacc-49f3-a3b6-de8cafa0e2cc",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "Ereli <ereli@7ai.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 98,
+      "overriden_lines": 0
+    }
+  }
+}
